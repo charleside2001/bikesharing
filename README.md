@@ -67,6 +67,7 @@ This project was performed to convince investors that a bike-sharing program in 
 ![nyc_dashboard.PNG](https://github.com/charleside2001/bikesharing/blob/5edfac56a19b8c17884ff5b95e5c5cb740bb25f2/images/nyc_dashboard.PNG) 
 
 [link to NYC Bikesharing dashboard](https://public.tableau.com/app/profile/charles.obuseh/viz/NYCBikesharingDashboard/NYCBikesharingDashboard)
+
 [link to NYC Bikesharing Story](https://public.tableau.com/app/profile/charles.obuseh/viz/NYCBikesharingStory_16441235186840/NYCBikesharingStory)
 
 
